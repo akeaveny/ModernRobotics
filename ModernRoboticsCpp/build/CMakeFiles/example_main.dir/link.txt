@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/example_main.dir/src/example_main.cpp.o  -o example_main -Wl,-rpath,/home/akeaveny/git/ModernRobotics/ModernRoboticsCpp/build libModernRoboticsCpp.so 
